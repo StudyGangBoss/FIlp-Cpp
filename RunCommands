@@ -1,0 +1,8 @@
+g++ -o pointer.exe pointer.cpp
+.\pointer.exe
+
+g++ -o alloc.exe alloc.cpp
+.\alloc.exe
+
+g++ -o twin.exe alloc.cpp
+.\twin.exe
